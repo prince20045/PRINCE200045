@@ -1,6 +1,6 @@
-# PRINCE   KUMAR DWIVDI
+# PRINCE200045
 
-    ## Hi, I'm [Your Name] 👋
+    ## Hi, I'm [prince kumar dwivedi] 👋
 
 ## About Me
 MBA Graduate | Data Analyst | Business Analyst
